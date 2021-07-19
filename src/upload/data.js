@@ -1,3 +1,14 @@
+{
+    name: "Arshiya Mittal",
+    role: "Full Stack Developer",
+    image: "https://avatars.githubusercontent.com/u/45172371?s=400&u=7a9dddbbfdc45334e05ef508ce57934719436d7b&v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/arshiyamittal2000",
+      "https://www.linkedin.com/in/arshiya-mittal-3825b3195/",
+      "https://twitter.com/MittalArshiya",
+    ],
+  }
 const data = [
   {
     name: "Akash Khandelwal",
